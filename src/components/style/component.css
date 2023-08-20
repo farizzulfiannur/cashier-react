@@ -1,0 +1,18 @@
+.background-nav{
+    background-color: #8080c0;
+}
+.background-nav .logo{
+    color: rgba(255, 0, 0, 0.873);
+    font-weight: 700;
+}
+.background-nav .logo:hover{
+    color: rgba(253, 2, 2, 0.949);
+    font-weight: 700;
+}
+
+
+
+.word-edit {
+    color: red;
+    font-weight: 700;
+}

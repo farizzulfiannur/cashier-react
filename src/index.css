@@ -7,6 +7,30 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.navbar {
+  background-color: #34f715;
+}
+
+.card .category-card{
+  border: 2px solid #eb5050;
+  border-radius: 30px;
+  background-color: #eb5050;
+  font-weight: 700;
+  color: white;
+  padding: 3px;
+  text-align: center;
+}
+
+.navbar .logo{
+  color: black;
+  font-weight: 700;
+
+}
+
+.list-kategori {
+  font-weight: 700;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
